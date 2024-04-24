@@ -1,0 +1,4 @@
+﻿  sign_in_form.cpp
+C:\dev\cpp\projects\WinForms GUI\Sign_in\Sign_in\sign_in_form.cpp(8,1): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  sign_in_form.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Sign_in.vcxproj -> C:\dev\cpp\projects\WinForms GUI\Sign_in\x64\Debug\Sign_in.exe

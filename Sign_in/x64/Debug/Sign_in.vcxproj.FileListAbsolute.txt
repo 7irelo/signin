@@ -1,0 +1,6 @@
+C:\programming\cpp\projects\WinForms GUI\Sign_in\Sign_in\x64\Debug\Sign_in.vcxproj.AssemblyReference.cache
+C:\programming\cpp\projects\WinForms GUI\Sign_in\Sign_in\x64\Debug\Signin.sign_in_form.resources
+C:\programming\cpp\projects\WinForms GUI\Sign_in\Sign_in\x64\Debug\Sign_in.vcxproj.GenerateResource.cache
+C:\dev\cpp\projects\WinForms GUI\Sign_in\Sign_in\x64\Debug\Sign_in.vcxproj.AssemblyReference.cache
+C:\dev\cpp\projects\WinForms GUI\Sign_in\Sign_in\x64\Debug\Signin.sign_in_form.resources
+C:\dev\cpp\projects\WinForms GUI\Sign_in\Sign_in\x64\Debug\Sign_in.vcxproj.GenerateResource.cache
